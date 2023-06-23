@@ -1,4 +1,4 @@
-# cer_gabriel_sere
+#### cer_gabriel_sere
 ## Creați un controler Rest care vă permite să gestionați următoarele operațiuni în cont:
 1. [Citirea soldului]
 2. [Lista tranzacțiilor]
@@ -33,13 +33,15 @@
 ### Tecnologie
 Testul trebuie efectuat în Java. În mod ideal, este necesară utilizarea Spring.
 ### Artefatto
-Codul sursă al artefactului produsului trebuie publicat și partajat prin:
+###### Codul sursă al artefactului produsului trebuie publicat și partajat prin:
 GitHub;
+* trebuie creat un nou branch develop unde vin publicate toate modificările
+* la sfarsit se va cere un merge catre branch master
 ### Alte info:
-Ambiente: Sandbox
-Id-Chiave: 3202
+* Ambiente: Sandbox
+* Id-Chiave: 3202
 ### Puncte cheie
-L’obiettivo è valutare la capacità di sviluppo software con particolare attenzione a:
+###### L’obiettivo è valutare la capacità di sviluppo software con particolare attenzione a:
 * Structura codului;
 * Abordarea problemei;
 * Teste automate JUNIT;
